@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f2f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+img{
+    margin-top: -200px;
+    height: 130px;
+    margin-left: 100px;
+}
+p{
+    margin-top: -40px;
+    margin-left: -350px;
+    font-size: 20px;
+}
+
+.container {
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    padding: 20px;
+    margin-left: 200px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.login-form {
+    width: 100%;
+    align-items: center;
+    margin: 0px;
+}
+
+.login-form h2 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+input[type="text"],
+input[type="password"],
+button {
+    width: 97%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+button {
+    background-color: #1877f2;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #166fe5;
+}
+
+a {
+    display: block;
+    text-align: center;
+    color: #1877f2;
+    text-decoration: none;
+}
+
+hr {
+    margin: 20px 0;
+    border: none;
+    border-top: 1px solid #ddd;
+}
+
+.create-account {
+    background-color: #42b72a;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.create-account:hover {
+    background-color: #36a420;
+}

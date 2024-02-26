@@ -1,0 +1,21 @@
+h1{
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  div {
+    background-color: brown;
+  }
+  div h5{
+    color: blueviolet;
+    font-size: large;
+  }
+  body{
+    background-color: aqua;
+  }
+  p{
+    color:black;
+    background-color: gray;
+  }
+  body h2{
+    color: pink;
+  }
